@@ -33,7 +33,7 @@ html {
 
 #divtel {
     width: 100%;
-    background-color: #898989;
+    background-color: rgb(83, 95, 100);
     line-height: 80px;
     font-size: 18px;
     color: #FFF;
@@ -48,16 +48,6 @@ html {
     line-height: 80px;
     font-size: 18px;
     color: #FFF;
-    float: left;
-    text-align: center;
-
-}
-.site {
-    width: 100%;
-    background-color: #CD8733;
-    line-height: 80px;
-    font-size: 18px;
-    color: #fff;
     float: left;
     text-align: center;
 
