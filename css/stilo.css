@@ -1,0 +1,75 @@
+body,
+html {
+    font-family: Arial, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.logo {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: -3px;
+}
+
+#divzapzap {
+    width: 100%;
+    background-color: #39890f;
+    line-height: 80px;
+    font-size: 18px;
+    color: #FFF;
+    float: left;
+    text-align: center;
+}
+
+#divlocalizacao {
+    width: 100%;
+    background-color: #8e2727;
+    line-height: 80px;
+    font-size: 18px;
+    color: #FFF;
+    float: left;
+    text-align: center;
+}
+
+#divtel {
+    width: 100%;
+    background-color: #544f7b;
+    line-height: 80px;
+    font-size: 18px;
+    color: #FFF;
+    float: left;
+    text-align: center;
+
+}
+
+#divcompartilhar {
+    width: 100%;
+    background-color: #002560;
+    line-height: 80px;
+    font-size: 18px;
+    color: #FFF;
+    float: left;
+    text-align: center;
+
+}
+.site {
+    width: 100%;
+    background-color: #CD8733;
+    line-height: 80px;
+    font-size: 18px;
+    color: #fff;
+    float: left;
+    text-align: center;
+
+}
+
+.propaganda {
+    width: 100%;
+    background-color: #ffffff;
+    line-height: 80px;
+    font-size: 18px;
+    color: #030303;
+    float: left;
+    text-align: center;
+
+}
