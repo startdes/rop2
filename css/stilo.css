@@ -25,7 +25,7 @@ html {
 
 #divtel {
     width: 100%;
-    background-color: rgb(83, 95, 100);
+    background-color: rgb(57, 53, 53);
     line-height: 60px;
     font-size: 14px;
     color: #FFF;
@@ -33,7 +33,6 @@ html {
     text-align: center;
 
 }
-
 #divcompartilhar {
     width: 100%;
     background-color: #5d8faf;
